@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+}
+
+.full {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 100px;
+    /* margin-bottom: -175px; */
+}
+
+.one p {
+    margin-top: -15px;
+    margin-bottom: 40px;
+}
+
+
+.two{
+    margin-right: 300px;
+}
+
+.two p {
+    margin-top: -15px;
+    margin-bottom: 40px;
+}
+
+.form-control input {
+    width: 300px;
+    border: 3px solid bisque;
+    padding: 5px 3px;
+}
+
+.form-control button {
+    width: 50px;
+    padding: 5px 3px;
+    background-color: #716565;
+    color: #FFFFFF;
+}
